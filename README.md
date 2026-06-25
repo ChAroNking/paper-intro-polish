@@ -1,6 +1,6 @@
 # paper-intro-polish
 
-将学术论文的中文摘要和引言润色至 Nature / Science / 顶刊水平。基于对 **902 篇**顶刊论文（326 篇 Nature + 52 篇 Science + arXiv/bioRxiv/JSV 等）的全文系统分析，提炼出结构、叙事、过渡和语言的全套写作规范。
+将学术论文的中文摘要和引言润色至 Nature / Science / 顶刊水平。基于对 **902 篇**顶刊论文（400 余篇 Nature + 350 余篇 Science + arXiv/bioRxiv/JSV 等）的全文系统分析，提炼出结构、叙事、过渡和语言的全套写作规范。
 
 ## 功能
 
